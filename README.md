@@ -1,6 +1,4 @@
-### dummy
+### Dummy Project
 ---
 
-A dummy repo!!
-
-With some new useless features
+A dummy project to test some CI
