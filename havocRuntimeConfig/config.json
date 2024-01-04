@@ -1,0 +1,18 @@
+{
+    "projectName": "<PROJECT_NAME>",
+    "repository": "ssh://git@lab2.mgmtcp.com:rdidato/dummy.git",
+    "environments": [
+        {
+            "name": "production",
+            "deployBranch": "cicd_production",
+            "tagged": true,
+            "stable": true
+        },
+        {
+            "name": "staging",
+            "deployBranch": "cicd_staging",
+            "tagged": true,
+            "stable": false
+        }
+    ]
+}
