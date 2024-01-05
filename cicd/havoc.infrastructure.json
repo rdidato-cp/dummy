@@ -1,0 +1,12 @@
+{
+    "AWS_REGION": "eu-west-1",
+    "AWS_DEPLOY_REGION": "eu-west-1",
+    "PROJECT_NAME": "Dummy",
+    "SOURCE_REPO_NAME": "dummy",
+    "CONFIG_REPO_NAME": "dummy",
+    "CICD_BUCKET_NAME": "ciaopeople-cicd",
+    "ECR_REGISTRY": "060168406338.dkr.ecr.eu-west-1.amazonaws.com",
+    "DOCKER_BUILD_IMAGE": "060168406338.dkr.ecr.eu-west-1.amazonaws.com/infrastructure/builders/npm-builder:node14-1.0.22",
+    "CLOUDWATCH_EVENT_BASENAME": "Dummy",
+    "STATIC_BUCKET_NAME": "static.dummy.it"
+}
