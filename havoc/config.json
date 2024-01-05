@@ -1,6 +1,6 @@
 {
     "projectName": "<PROJECT_NAME>",
-    "repository": "ssh://git@lab2.mgmtcp.com:rdidato/dummy.git",
+    "repository": "ssh://git@lab2.mgmtcp.com/rdidato/dummy.git",
     "environments": [
         {
             "name": "production",
